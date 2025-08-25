@@ -5,6 +5,7 @@
 #' @returns No return value.
 #' @export
 #'
+#'
 #' @examples
 #' aFancyFunction()
 aFancyFunction <- function() {
